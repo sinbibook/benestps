@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-10-15T03:18:02.559430361Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-10-15T11:11:09.007848921Z",
     "templateType": "trip_g",
     "propertyId": "4fa0fd6d-f833-4a9a-8cc7-0a407b20edb5",
     "homepageId": "01a114ea-f11f-74a6-a27d-db992fbcc6fa"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 21시 00분\n※ 21시 이후 도착할 시에는 사전 연락 바랍니다.",
-    "usageGuide": "- 객실 금액은 기준 인원에 대한 금액으로 기준 인원 초과 시 추가 요금이 발생합니다. 예약 시 예약 인원을 꼭 확인해 주세요.\n- 당일 예약 후 당일 이용하는 경우 (오후 9시 이후 입실의 경우) 확정 예약이 아니오니 꼭 업체에 이용 가능 여부 문의 후 구매해 주시기 바랍니다.\n- 반려동물 동반 금지\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 21시 00분\n※ 21시 이후 도착할 시에는 사전 연락 바랍니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 1인 20,000원\n(1박기준/현장결제)\n※ 최대인원 초과 입실 불가\n\n[개별바베큐]\n- 바베큐 형태: 숯불 (전 객실 실외 개별 바베큐)\n- 이용 요금: 2인 기준 20,000원 (추가 인원당 5,000원 현장 결제) (1박기준/현장결제)\n- 이용 시간: ~ 00:00\n- 신청 시간: ~ 22:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n- 준비 소요시간: 이용 30분 전 신청\n※ 숯/그릴 개인 지참 불가\n\n[공용수영장]\n- 운영 기간: 6월 6일 ~ 9월 30일 (※ 날씨에 따라 운영 기간 변경될 수 있음)\n- 이용 요금: 무료\n- 이용 시간: 14:00 ~ 19:00\n- 이용 복장: 수영복, 반바지, 평상복\n※ 튜브 개인 지참\n※ 다이빙 금지 / 음식물 섭취 불가\n※ 영유아, 어린이는 반드시 보호자와 함께 이용해주세요.\n\n[스파]\n- 이용 객실: 메이플, 골드\n- 이용 요금: 무료\n- 이용 횟수: 1회\n- 이용 시간: 제한없음\n- 입욕제 사용 불가\n※ 이용 횟수 초과 이용으로 고장 시 책임은 투숙객에게 있으며, 손해 배상의 책임을 질 수 있습니다.\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n- 편의점: 도보 1분 거리에 24시간 편의점이 있습니다.\n- 관광지: 차량 3분 거리에 아침고요수목원이 있습니다.\n\n[주차장]\n- 주차장 보유\n- 주차 대수: 12대 주차 가능\n\n[픽업]\n- 픽업 종류: 마트픽업\n- 이용 장소: 청평점 365마트 (031-585-8051)\n- 이용 시간: 17:00 이전에만 가능\n※ 마트에서 일정 금액 이상 구매 시 마트 자체에서 베네스트펜션까지 픽업\n※ 이용 관련은 마트 사전 문의 필수\n\n[교통편]\n- 자가용 : 강변북로-남양주문화체육관앞 지나 -경춘국도쪽 우회전-도농삼거리-평내-마석-대성리-청평-청평검문소 좌회전-암초리삼거리-좌회전(아침고요수목원방향)-옛골식당 삼거리좌회전-작은다리건너-베네스트\n\n- 대중교통 : 청량리역-경춘선열차-청평역하차",
+    "usageGuide": "[공지사항]\n- 객실 금액은 기준 인원에 대한 금액으로 기준 인원 초과 시 추가 요금이 발생합니다. 예약 시 예약 인원을 꼭 확인해 주세요.\n- 당일 예약 후 당일 이용하는 경우 (오후 9시 이후 입실의 경우) 확정 예약이 아니오니 꼭 업체에 이용 가능 여부 문의 후 구매해 주시기 바랍니다.\n- 반려동물 동반 금지\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 21시 00분\n※ 21시 이후 도착할 시에는 사전 연락 바랍니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n※ 최대인원 초과 입실 불가\n\n[개별바베큐]\n- 바베큐 형태: 숯불 (전 객실 실외 개별 바베큐)\n- 이용 요금: 2인 기준 20,000원 (추가 인원당 5,000원 현장 결제) (1박기준/현장결제)\n- 이용 시간: ~ 00:00\n- 신청 시간: ~ 22:00\n- 우천 시 이용 가능\n- 동계 시 이용 가능\n- 준비 소요시간: 이용 30분 전 신청\n※ 숯/그릴 개인 지참 불가\n\n[공용수영장]\n- 운영 기간: 6월 6일 ~ 9월 30일 (※ 날씨에 따라 운영 기간 변경될 수 있음)\n- 이용 요금: 무료\n- 이용 시간: 14:00 ~ 19:00\n- 이용 복장: 수영복, 반바지, 평상복\n※ 튜브 개인 지참\n※ 다이빙 금지 / 음식물 섭취 불가\n※ 영유아, 어린이는 반드시 보호자와 함께 이용해주세요.\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 넷플릭스 이용 가능\n※ 개인계정 필요\n- 편의점: 도보 1분 거리에 24시간 편의점이 있습니다.\n- 관광지: 차량 3분 거리에 아침고요수목원이 있습니다.\n\n[주차장]\n- 주차장 보유\n- 주차 대수: 12대 주차 가능\n\n[픽업]\n- 픽업 종류: 마트픽업\n- 이용 장소: 청평점 365마트 (031-585-8051)\n- 이용 시간: 17:00 이전에만 가능\n※ 마트에서 일정 금액 이상 구매 시 마트 자체에서 베네스트펜션까지 픽업\n※ 이용 관련은 마트 사전 문의 필수\n\n[교통편]\n- 자가용 : 강변북로-남양주문화체육관앞 지나 -경춘국도쪽 우회전-도농삼거리-평내-마석-대성리-청평-청평검문소 좌회전-암초리삼거리-좌회전(아침고요수목원방향)-옛골식당 삼거리좌회전-작은다리건너-베네스트\n\n- 대중교통 : 청량리역-경춘선열차-청평역하차",
     "reservationGuide": "- 객실 금액은 기준 인원에 대한 금액으로 기준 인원 초과 시 추가 요금이 발생합니다. 예약 시 예약 인원을 꼭 확인해 주세요.\n- 당일 예약 후 당일 이용하는 경우 (오후 9시 이후 입실의 경우) 확정 예약이 아니오니 꼭 업체에 이용 가능 여부 문의 후 구매해 주시기 바랍니다.\n- 반려동물 동반 금지",
     "province": "도/시",
     "city": "시/군/구",
@@ -169,39 +169,6 @@
         ]
       },
       {
-        "id": "01a114ea-e534-7d55-903a-b651a84c9eba",
-        "name": "스파",
-        "description": "",
-        "usageGuide": "- 이용 객실: 메이플, 골드\n- 이용 요금: 무료\n- 이용 횟수: 1회\n- 이용 시간: 제한없음\n- 입욕제 사용 불가\n※ 이용 횟수 초과 이용으로 고장 시 책임은 투숙객에게 있으며, 손해 배상의 책임을 질 수 있습니다.",
-        "displayOrder": 2,
-        "images": [
-          {
-            "id": "01a114ea-eb72-7703-b391-902006d5a884",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a114ea-e534-7d55-903a-b651a84c9eba/main/1791352301840-d4q47bue4j.webp",
-            "sortOrder": 0,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "01a114ea-ebba-796c-a9cc-4e83646664b2",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a114ea-e534-7d55-903a-b651a84c9eba/main/1791352301843-4jltjwj30v.webp",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
-            "id": "01a114ea-eb54-71de-9e9c-27e02abd6d03",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a114ea-e534-7d55-903a-b651a84c9eba/main/1791352301842-4rlt8ygenl.webp",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          }
-        ]
-      },
-      {
         "id": "919381c9-74e7-4735-9347-2ebad06ecb40",
         "name": "편의 및 주변 시설",
         "description": "",
@@ -302,7 +269,7 @@
           {
             "id": "edf99d32-2006-4fe0-94df-b0610a5e9dff",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/02/KuRL6EdtoaTi.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -312,7 +279,7 @@
           {
             "id": "b36d3370-61ec-4f97-a6f8-2c2cc19404e5",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/02/tAlfuGr4eR9F.jpg",
-            "sortOrder": 0,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -320,7 +287,7 @@
           {
             "id": "4f34d1d8-0b35-47fa-b504-195d3397da3b",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/02/2dyTjIJ9paOC.jpg",
-            "sortOrder": 1,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -328,7 +295,7 @@
           {
             "id": "17bdaee1-df2f-4da6-85bc-67b229cdece4",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/02/dnuzmQ7T5ghM.jpg",
-            "sortOrder": 2,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -336,7 +303,7 @@
           {
             "id": "6e501022-faed-4682-a9f9-55013d385afa",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/02/PlTLFbd8ZwpU.jpg",
-            "sortOrder": 3,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -344,7 +311,7 @@
           {
             "id": "b4d1e9ae-5b07-41dc-8377-6dff38e953e8",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/02/4nwYG2MfVAq8.jpg",
-            "sortOrder": 4,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -352,7 +319,7 @@
           {
             "id": "dd5198b1-523f-459a-bb5c-050a3d9153ae",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/23/nwkYXtRqj61O.jpg",
-            "sortOrder": 5,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -360,7 +327,7 @@
           {
             "id": "9cb0f6e3-65d1-4d07-804c-47e60dc36973",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/02/Oy420xnI36Yk.jpg",
-            "sortOrder": 6,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -368,7 +335,7 @@
           {
             "id": "b4f7026e-bf76-4d85-ba65-db610904d316",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/02/4SlAGmwVrJzF.jpg",
-            "sortOrder": 7,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -376,7 +343,7 @@
           {
             "id": "75063fcf-1941-4623-8f66-ed21cff564cb",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/02/02/aH2uNp5cx9Zk.jpg",
-            "sortOrder": 8,
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
